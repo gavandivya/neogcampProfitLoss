@@ -1,0 +1,31 @@
+/* label{
+    display: block !important;
+} */
+
+input{
+    margin-bottom: 1rem !important;
+}
+
+body{
+    background: url('graph.webp') center center fixed;
+    background-size: cover;
+    font-family:monospace !important;
+}
+
+.profitClass{
+background: url('profit.jpg') center center fixed;
+color: #fff;
+background-size: cover;
+}
+
+.lossClass{
+    background: url('loss.jpg') center center fixed;
+    color: #fff;
+    background-size: cover;
+}
+
+.NoGainClass{
+background: url('graph.webp') center center fixed;
+background-size: cover;
+}
+
