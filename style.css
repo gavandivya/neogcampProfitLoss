@@ -14,13 +14,13 @@ body{
 
 .profitClass{
 background: url('profit.jpg') center center fixed;
-color: #fff;
+color: #fff !important;
 background-size: cover;
 }
 
 .lossClass{
     background: url('loss.jpg') center center fixed;
-    color: #fff;
+    color: #fff !important;
     background-size: cover;
 }
 
