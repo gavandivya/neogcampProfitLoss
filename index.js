@@ -38,6 +38,7 @@ function ProfitLoss() {
       }
       else{
             showMessage("Please fill valid quantity");
+            output.style.color="red";
           }
   }
   else{
