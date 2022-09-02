@@ -21,6 +21,6 @@ For generating favicon from any image of choice I used https://www.favicon-gener
 
 ![profitloss](https://github.com/gavandivya/neogCampPortfolio/raw/main/images/profitloass.png)
 
-Give a ⭐️ if you found this repository useful!
+Give a 🌟if you found this repository useful!
 
-Made with ❤️ by Divya Gavandi
+Made with 💖 by Divya Gavandi
